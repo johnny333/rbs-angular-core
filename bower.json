@@ -17,9 +17,7 @@
     "bower_components",
     "test",
     "tests"
-  ],"publishConfig": {
-    "registry": "http://10.250.0.156:8081/repository/npm-programisci/"
-  },
+  ],
   "private": false,
   "dependencies": {
     "angular": "1.5.6",
