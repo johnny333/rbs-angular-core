@@ -1,0 +1,38 @@
+{
+  "name": "@programisci-eu/rbs-angular-core",
+  "version": "0.0.4",
+  "authors": [
+    "Pogramisci.eu"
+  ],"contributors": [
+    "Jakub Kołecki <jakub.kolecki@programisci.eu>"
+  ],
+  "description": "Moduł podstawowy dla aplikacji Angular.js",
+  "main": "dist/js/rbs-angular-core.js",
+  "keywords": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],"publishConfig": {
+    "registry": "http://10.250.0.156:8081/repository/npm-programisci/"
+  },
+  "private": false,
+  "dependencies": {
+    "angular": "1.5.6",
+    "angular-resource": "1.5.6",
+    "angular-mocks": "1.5.6",
+    "string": "3.3.1",
+    "bignumber.js": "2.3.0",
+    "lodash": "4.13.1",
+    "jasmine-promise-matchers": "2.0.2",
+    "jasmine-object-matchers": "0.1.0"
+  },
+  "resolutions": {
+    "angular": "1.5.6",
+    "lodash": "4.13.1"
+  }
+}
