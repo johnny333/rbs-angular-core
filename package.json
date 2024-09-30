@@ -6,8 +6,6 @@
   "main": "dist/js/rbs-angular-core.js",
   "dependencies": {
     "coffeescript-mixins": "0.0.4"
-  },"publishConfig": {
-    "registry": "http://10.250.0.156:8081/repository/npm-programisci/"
   },
   "private": false,
   
@@ -68,10 +66,6 @@
   },
   "scripts": {
     "test": "gulp test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@bitbucket.org:programisci_eu/rbs-angular-core.git"
   },
   "keywords": [],
   "contributors": [
